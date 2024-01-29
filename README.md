@@ -2,6 +2,10 @@
 
 ## Available Scripts
 
-To start the application
+To install all pacakages
+
+### `npm install`
+
+To start the application   
 
 ### `npm start`
